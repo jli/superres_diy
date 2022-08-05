@@ -1,4 +1,4 @@
-/models/*.pb
+/models/
 /images/
 
 # Byte-compiled / optimized / DLL files
